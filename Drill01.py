@@ -1,22 +1,22 @@
 import turtle
 
-def move_w:
+def move_w():
     turtle.setheading(90)
     turtle.forward(50)
 
-def move_a:
+def move_a():
     turtle.setheading(180)
     turtle.forward(50)
 
-def move_s:
+def move_s():
     turtle.setheading(-90)
     turtle.forward(50)
 
-def move_d:
+def move_d():
     turtle.setheading(0)
     turtle.forward(50)
 
-def reseting:
+def reseting():
     turtle.reset()
 
 turtle.onkey(move_w,'w')
