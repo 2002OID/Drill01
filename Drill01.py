@@ -11,3 +11,8 @@ def move_a:
 def move_s:
     turtle.setheading(-90)
     turtle.forward(50)
+
+def move_d:
+    turtle.setheading(0)
+    turtle.forward(50)
+
