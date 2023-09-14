@@ -23,3 +23,5 @@ turtle.onkey(move_w,'w')
 turtle.onkey(move_a,'a')
 turtle.onkey(move_s,'s')
 turtle.onkey(move_d,'d')
+
+turtle.onkey(reseting,'Escape')
