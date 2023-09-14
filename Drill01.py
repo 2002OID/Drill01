@@ -26,4 +26,4 @@ turtle.onkey(move_d,'d')
 
 turtle.onkey(reseting,'Escape')
 
-tertle.listen()
+turtle.listen()
