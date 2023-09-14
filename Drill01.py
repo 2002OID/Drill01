@@ -16,3 +16,6 @@ def move_d:
     turtle.setheading(0)
     turtle.forward(50)
 
+def reseting:
+    turtle.reset()
+
